@@ -9,3 +9,5 @@ After that, set up the IP addresses of your Arrowhead Service Registry and your 
 Now, you should start the program with 
 `python3 sensor.py`
 `python3 database.py`
+
+In the files tesi.pdf e presentazione.pdf you will find further information in Italian
